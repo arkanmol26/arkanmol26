@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 About Me:-->
 🔭 I’m currently working on Full Stack Web Development projects<br>👯 I’m looking to collaborate on MERN Stack and Open Source projects<br>🤝 I’m looking for help with Backend Development and System Design<br>🌱 I’m currently learning Node.js, Express.js, MongoDB and Backend Development<br>💬 Ask me about HTML, CSS, JavaScript, React.js and Git/GitHub<br>⚡ Fun fact: I love turning ideas into real-world web applications
 
 
