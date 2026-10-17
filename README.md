@@ -1,5 +1,4 @@
-# 💫 About Me:--><br> I’m currently working on Full Stack Web Development projects. I’m looking to collaborate on MERN Stack and Open So-urce projects<br>🤝 I’m looking for help with Backend Development and System Design🌱 I’m currently learning Node.js, Express.js, MongoDB and Backend Development<br>💬 Ask me about HTML, CSS, JavaScript, React.js and Git/GitHub<br>⚡ Fun fact: I love turning ideas into real-world web applications.<br>
-
+# 💫 About Me:--><br> <h3>I’m currently working on Full Stack Web Development projects.</h3> 
 ## 🌐 Socials:-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arkanmol26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkanmol26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmolark4@gmail.com) 
 
